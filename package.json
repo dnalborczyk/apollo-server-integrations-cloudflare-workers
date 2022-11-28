@@ -10,6 +10,20 @@
     "prettier": "prettier --check .",
     "prettier:fix": "prettier --write ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnalborczyk/apollo-server-integrations-cloudflare-workers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dnalborczyk/apollo-server-integrations-cloudflare-workers/issues"
+  },
+  "homepage": "https://github.com/dnalborczyk/apollo-server-integrations-cloudflare-workers#readme",
+  "keywords": [
+    "apollo",
+    "server",
+    "cloudflare",
+    "workers"
+  ],
   "dependencies": {
     "@apollo/utils.withrequired": "^2.0.0",
     "@cloudflare/workers-types": "^4.20221111.1"
