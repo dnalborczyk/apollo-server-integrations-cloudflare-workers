@@ -5,9 +5,9 @@ import type {
   HTTPGraphQLResponse,
 } from '@apollo/server'
 import type { WithRequired } from '@apollo/utils.withrequired'
-import { asHTTPGraphQLRequest } from './asHTTPGraphQLRequest'
-import type { CloudflareWorkersContextFunctionArgument } from './CloudflareWorkersContextFunctionArgument'
-import type { CloudflareWorkersHandlerOptions } from './CloudflareWorkersHandlerOptions'
+import { asHTTPGraphQLRequest } from './asHTTPGraphQLRequest.js'
+import type { CloudflareWorkersContextFunctionArgument } from './CloudflareWorkersContextFunctionArgument.js'
+import type { CloudflareWorkersHandlerOptions } from './CloudflareWorkersHandlerOptions.js'
 
 export function startServerAndCreateCloudflareWorkersHandler<TEnv>(
   server: ApolloServer<BaseContext>,

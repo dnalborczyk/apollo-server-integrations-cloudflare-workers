@@ -1,5 +1,5 @@
 import type { BaseContext, ContextFunction } from '@apollo/server'
-import type { CloudflareWorkersContextFunctionArgument } from './CloudflareWorkersContextFunctionArgument'
+import type { CloudflareWorkersContextFunctionArgument } from './CloudflareWorkersContextFunctionArgument.js'
 
 export interface CloudflareWorkersHandlerOptions<
   TEnv,

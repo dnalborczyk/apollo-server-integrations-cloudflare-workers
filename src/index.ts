@@ -1,1 +1,1 @@
-export { startServerAndCreateCloudflareWorkersHandler } from './startServerAndCreateCloudflareWorkersHandler'
+export { startServerAndCreateCloudflareWorkersHandler } from './startServerAndCreateCloudflareWorkersHandler.js'
