@@ -51,3 +51,13 @@ export default {
   ),
 }
 ```
+
+## Example projects
+
+**Apollo Server v4**
+
+https://github.com/dnalborczyk/apollo-server-cloudflare-workers
+
+**Apollo Federation v2** with Apollo Server v4, Apollo Gateway v2, Apollo Subgraph v2
+
+https://github.com/dnalborczyk/apollo-federation-cloudflare-workers
