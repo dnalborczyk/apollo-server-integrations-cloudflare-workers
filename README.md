@@ -1,3 +1,6 @@
+[![NPM version](https://badge.fury.io/js/apollo-server-integrations-cloudflare-workers.svg)](https://www.npmjs.com/package/apollo-server-integrations-cloudflare-workers)
+[![NPM downloads](https://img.shields.io/npm/dm/apollo-server-integrations-cloudflare-workers.svg?style=flat)](https://www.npmjs.com/package/apollo-server-integrations-cloudflare-workers)
+
 # Apollo Server Integration for Cloudflare Workers
 
 ## **Installation**
