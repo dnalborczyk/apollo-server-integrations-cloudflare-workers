@@ -6,7 +6,7 @@
 ## **Installation**
 
 ```bash
-npm install apollo-server-integrations-cloudflare-workers @apollo/server graphql
+npm install apollo-server-integrations-cloudflare-workers
 ```
 
 ## **Usage**
