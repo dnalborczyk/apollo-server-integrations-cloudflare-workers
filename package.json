@@ -29,18 +29,18 @@
     "@cloudflare/workers-types": "^4.20221111.1"
   },
   "devDependencies": {
-    "@apollo/server": "^4.2.2",
-    "@typescript-eslint/eslint-plugin": "^5.45.1",
-    "@typescript-eslint/parser": "^5.45.1",
+    "@apollo/server": "^4.3.0",
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
     "eslint": "^8.29.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.8.0",
+    "prettier": "^2.8.1",
     "rimraf": "^3.0.2",
-    "typescript": "^4.9.3"
+    "typescript": "^4.9.4"
   },
   "peerDependencies": {
-    "@apollo/server": "^4.2.1"
+    "@apollo/server": "^4.3.0"
   }
 }
