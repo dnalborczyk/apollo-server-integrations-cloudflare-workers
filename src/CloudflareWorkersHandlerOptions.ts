@@ -9,5 +9,5 @@ export interface CloudflareWorkersHandlerOptions<
     [CloudflareWorkersContextFunctionArgument<TEnv>],
     TContext
   >
-  path: string
+  // path: string
 }
