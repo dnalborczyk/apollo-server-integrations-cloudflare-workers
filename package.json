@@ -1,6 +1,6 @@
 {
   "name": "apollo-server-integrations-cloudflare-workers",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "exports": "./dist/index.js",
   "type": "module",
   "license": "MIT",
