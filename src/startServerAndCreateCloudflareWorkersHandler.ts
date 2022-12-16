@@ -50,14 +50,14 @@ export function startServerAndCreateCloudflareWorkersHandler<
     env: TEnv,
     ctx: ExecutionContext,
   ): Promise<Response> {
-    const { method, url } = request
-    const { pathname } = new URL(url)
+    // const { method, url } = request
+    // const { pathname } = new URL(url)
 
-    if (pathname !== options?.path || method !== 'POST') {
-      return new Response('Path not found.', {
-        status: 404,
-      })
-    }
+    // if (pathname !== options?.path || method !== 'POST') {
+    //   return new Response('Path not found.', {
+    //     status: 404,
+    //   })
+    // }
 
     let httpGraphqlResponse: HTTPGraphQLResponse
 
